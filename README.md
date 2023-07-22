@@ -8,3 +8,7 @@ This is a repository of links to public web series that I personally like. I did
 - [Camp Camp - Full Series](https://roosterteeth.com/series/camp-camp?season=1)
 
 Obs. The YouTube version doesn't have season 4 included yet, nor does it have the episodes "S3:E13 - Arrival of the Torso Takers" and "S3:E14 - Culture Day". They're only available on the official Rooster Teeth website, which is free but has a lot of ads.
+
+### Helluva Boss
+
+- [Helluva Boss - Full Series](https://www.youtube.com/playlist?list=PL-uopgYBi65HwiiDR9Y23lomAkGr9mm-S)
