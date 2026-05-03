@@ -2,9 +2,22 @@
 
 This is a repository of links to public web series that I personally like. I didn't produce any of these series; I simply want to store and share them with others who might enjoy them as well. 😁🎬
 
+---
+
+<p align="center">
+    <img src="Images/Camp_Camp.jpg" alt="Camp Camp wallpaper">
+</p>
+
 ### Camp Camp
 
-- [Camp Camp - Season 1 - Season 2 - Season 3](https://www.youtube.com/playlist?list=PL2vBnPCQT4WLQRL62FLUSis4AMwHzNmGl)
-- [Camp Camp - Full Series](https://roosterteeth.com/series/camp-camp?season=1)
+- [Camp Camp](https://roosterteeth.com/series/camp-camp)
 
-Obs. The YouTube version doesn't have season 4 included yet, nor does it have the episodes "S3:E13 - Arrival of the Torso Takers" and "S3:E14 - Culture Day". They're only available on the official Rooster Teeth website, which is free but has a lot of ads.
+---
+
+<p align="center">
+    <img src="Images/The_Legend_of_Lucky_Pie.jpg" alt="The Legend of Lucky Pie wallpaper">
+</p>
+
+### The Legend of Lucky Pie
+
+- [The Legend of Lucky Pie](https://www.youtube.com/playlist?list=PL80jyL-6j_532dYvtIXBEaie_2cqYC6nT)
